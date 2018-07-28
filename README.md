@@ -12,4 +12,4 @@ Ms Test & NUnit equivalents
 |[TestCase]         |[DataRow]          |
 
 ## References
-* (https://www.meziantou.net/2018/01/22/mstest-v2-setup-a-test-project-and-run-tests)
+* [mstest-v2 series of blogs](https://www.meziantou.net/2018/01/22/mstest-v2-setup-a-test-project-and-run-tests)
