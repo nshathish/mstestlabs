@@ -10,3 +10,6 @@ Ms Test & NUnit equivalents
 |[SetUp]            |[TestInitialize]   |
 |[TearDown]         |[TestCleanUp]      |
 |[TestCase]         |[DataRow]          |
+
+## References
+* (https://www.meziantou.net/2018/01/22/mstest-v2-setup-a-test-project-and-run-tests)
