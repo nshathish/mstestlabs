@@ -13,3 +13,4 @@ Ms Test & NUnit equivalents
 
 ## References
 * [mstest-v2 series of blogs](https://www.meziantou.net/2018/01/22/mstest-v2-setup-a-test-project-and-run-tests)
+* [NUnit samples](https://github.com/DaveMBush/NUnit3Samples)
