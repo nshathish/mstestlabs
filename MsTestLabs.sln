@@ -1,11 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.27703.2042
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.36105.23 d17.13
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyLibraray", "MyLibraray\MyLibraray.csproj", "{FAE6B33C-FFA5-407F-ADFE-3B28A53601FA}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyLibrary.Tests", "..\MyLibrary.Tests\MyLibrary.Tests.csproj", "{DCFC0D7C-EB1C-4774-AB51-BE259DB7B14B}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyLibrary.Nunit.Tests", "MyLibrary.Nunit.Tests\MyLibrary.Nunit.Tests.csproj", "{F28E561A-19D8-4857-B82B-AD26A4847E7B}"
 EndProject
@@ -19,10 +17,6 @@ Global
 		{FAE6B33C-FFA5-407F-ADFE-3B28A53601FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FAE6B33C-FFA5-407F-ADFE-3B28A53601FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FAE6B33C-FFA5-407F-ADFE-3B28A53601FA}.Release|Any CPU.Build.0 = Release|Any CPU
-		{DCFC0D7C-EB1C-4774-AB51-BE259DB7B14B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{DCFC0D7C-EB1C-4774-AB51-BE259DB7B14B}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{DCFC0D7C-EB1C-4774-AB51-BE259DB7B14B}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{DCFC0D7C-EB1C-4774-AB51-BE259DB7B14B}.Release|Any CPU.Build.0 = Release|Any CPU
 		{F28E561A-19D8-4857-B82B-AD26A4847E7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{F28E561A-19D8-4857-B82B-AD26A4847E7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F28E561A-19D8-4857-B82B-AD26A4847E7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
